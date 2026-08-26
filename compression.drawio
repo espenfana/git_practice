@@ -47,7 +47,7 @@
           <mxGeometry height="30" width="60" x="377.95" y="250.40000000000006" as="geometry" />
         </mxCell>
         <mxCell id="7CcahVuU1yTgxWrN6kDY-35" parent="1" style="shape=dimension;direction=south;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;labelBackgroundColor=none;horizontal=0;spacingTop=-15;" value="&lt;div&gt;25&lt;/div&gt;" vertex="1">
-          <mxGeometry height="98.43" width="153.84" x="177.17" y="405.51" as="geometry" />
+          <mxGeometry height="102.99" width="153.84" x="177.17" y="400.95" as="geometry" />
         </mxCell>
         <mxCell id="pvVDZrPrAYn45xiWJXly-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#009900;strokeColor=default;" value="" vertex="1">
           <mxGeometry height="125.43" width="36.95" x="332" y="214.97000000000003" as="geometry" />
@@ -69,18 +69,6 @@
         </mxCell>
         <mxCell id="pvVDZrPrAYn45xiWJXly-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="Ø10 H7" vertex="1">
           <mxGeometry height="30" width="60" x="320.47999999999996" y="439.73" as="geometry" />
-        </mxCell>
-        <mxCell id="pvVDZrPrAYn45xiWJXly-7" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="327" y="408" as="sourcePoint" />
-            <mxPoint x="377" y="358" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pvVDZrPrAYn45xiWJXly-8" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="327" y="408" as="sourcePoint" />
-            <mxPoint x="377" y="358" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="pvVDZrPrAYn45xiWJXly-9" edge="1" parent="1" source="pvVDZrPrAYn45xiWJXly-6" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.799;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.192;exitY=-0.018;exitDx=0;exitDy=0;exitPerimeter=0;" target="pvVDZrPrAYn45xiWJXly-6" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
